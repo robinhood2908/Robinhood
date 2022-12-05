@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROBINHOOD2925
+- 👋 Hi, I’m @ROBINHOOD29
 - 👀 I’m interested in ...AI and ML
 - 🌱 I’m currently learning ... Python and Javascript
 - 💞️ I’m looking to collaborate on ...AI and ML
